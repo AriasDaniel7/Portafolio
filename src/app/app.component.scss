@@ -1,14 +1,2 @@
-@import "./common/sass/variables";
 
-.card {
-  background-color: $tertiary;
-  position: relative;
-  -webkit-box-shadow: 0px 0px 19px -9.2px rgba(255, 255, 255, 0.48);
-  -moz-box-shadow: 0px 0px 19px -9.2px rgba(255, 255, 255, 0.48);
-  box-shadow: 0px 0px 19px -9.2px rgba(255, 255, 255, 0.48);
-  z-index: 3;
-}
 
-.color {
-  color: $secondary;
-}
