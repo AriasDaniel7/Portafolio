@@ -15,6 +15,6 @@
 
 .button {
   height: 2.5rem;
-  @apply text-white font-normal;
-  background-color: $secondary;
+  border-radius: 0%;
+  @apply text-black font-normal rounded-xl;
 }
